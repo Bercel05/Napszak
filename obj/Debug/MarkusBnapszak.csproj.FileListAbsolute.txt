@@ -1,0 +1,7 @@
+C:\Users\markusb\Gitwork\MarkusBnapszak\bin\Debug\MarkusBnapszak.exe.config
+C:\Users\markusb\Gitwork\MarkusBnapszak\bin\Debug\MarkusBnapszak.exe
+C:\Users\markusb\Gitwork\MarkusBnapszak\bin\Debug\MarkusBnapszak.pdb
+C:\Users\markusb\Gitwork\MarkusBnapszak\obj\Debug\MarkusBnapszak.csproj.AssemblyReference.cache
+C:\Users\markusb\Gitwork\MarkusBnapszak\obj\Debug\MarkusBnapszak.csproj.CoreCompileInputs.cache
+C:\Users\markusb\Gitwork\MarkusBnapszak\obj\Debug\MarkusBnapszak.exe
+C:\Users\markusb\Gitwork\MarkusBnapszak\obj\Debug\MarkusBnapszak.pdb
